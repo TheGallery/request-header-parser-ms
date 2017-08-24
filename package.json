@@ -1,0 +1,19 @@
+{
+  "name": "req-header-parser",
+  "version": "1.0.0",
+  "description": "FCC's Request Header Parser Microservice project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheGallery/request-header-parser-ms"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Psychas <iopsychas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.4"
+  }
+}
